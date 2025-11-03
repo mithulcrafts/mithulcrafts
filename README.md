@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" alt="Waving hand" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mithul+(mithulcrafts);A+Trailblazer;Let's+craft+something+legendary!" alt="Typing SVG" />
+  <br><br>
+</div>
+
 # 💫 About Me:
 I believe ordinary paths rarely lead to extraordinary outcomes, so rather than follow the map, I’ve learned to draw my own. I believe with the right mindset and persistent effort, even the impossible becomes possible.<br><br>While I respect traditional approaches, I never settle for them alone. I push myself to discover smarter, more creative solutions because true growth lies in exploring new possibilities beyond the usual.<br><br>Curiosity fuels my hunger to create, innovate, and learn. I’m passionate about growth, not just in skills, but in mindset, communication, and creativity. I value consistency over shortcuts and believe that learning how to think critically is more valuable than simply knowing what to do.<br><br>As a creator, I enjoy turning ideas into reality and understanding how things connect. I approach challenges logically, breaking down complex problems into clear, manageable steps. Discipline and persistent effort are the foundation of my success, and I strive to make a meaningful impact.<br><br>I’m always looking to connect with curious minds and ambitious builders. If you resonate with my mindset or simply want to talk about ideas, feel free to reach out.
 
