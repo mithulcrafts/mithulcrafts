@@ -25,4 +25,8 @@ I believe ordinary paths rarely lead to extraordinary outcomes, so rather than f
 ---
 [![](https://visitcount.itsvg.in/api?id=mithulcrafts&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+---
+# Achivements and badges
+[![An image of @mithulcrafts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mithulcrafts)](https://holopin.io/@mithulcrafts)
+### 🏆 Hacktoberfest 2025 — Super Contributor
+Recognized as a Super Contributor for Hacktoberfest 2025, awarded for making impactful, high-quality contributions across open-source projects.
