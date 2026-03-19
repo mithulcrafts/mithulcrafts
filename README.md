@@ -18,7 +18,7 @@ I value critical thinking, consistency, and exploring creative solutions beyond 
 
 
   ## 💻 Coding Platforms
-  <a href="https://leetcode.com/u/mdwEyJH2Sm/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"></a>
+  <a href="https://leetcode.com/u/MithulN/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"></a>
   <a href="https://www.codechef.com/users/mithulcrafts" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-744836?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://codeforces.com/profile/mithulcrafts" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-445FAE?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 </p>
