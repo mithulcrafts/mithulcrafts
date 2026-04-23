@@ -10,7 +10,7 @@ I value critical thinking, consistency, and exploring creative solutions beyond 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50px" height="30px" /> Connect with me :
 
-  <a href="https://www.linkedin.com/in/mithul-nama-61362a331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> Mithul Nama
+  <a href="https://www.linkedin.com/in/mithul-nama/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> Mithul Nama
   
   <a href="https://medium.com/@mithuln" target="_blank"><img src="https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=white"></a> mithuln
   
