@@ -57,7 +57,7 @@ I value critical thinking, consistency, and exploring creative solutions beyond 
 # 📊 GitHub Stats:
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mithulcrafts&theme=transparent&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=mithulcrafts&theme=transparent&hide_border=false&cache_seconds=7200" />
 
 <br/>
 
